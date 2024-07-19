@@ -69,15 +69,6 @@ Run `./quick_test.sh` to test on an LR image. Please update `img_dir` in the bas
 
 <p align="center"> <img src="Figs/fig.VII.png" width="50%"> </p>
 
-## Citation
-```
-@InProceedings{Wang2021Unsupervised,
-  author    = {Wang, Longguang and Wang, Yingqian and Dong, Xiaoyu and Xu, Qingyu and Yang, Jungang and An, Wei and Guo, Yulan},
-  title     = {Unsupervised Degradation Representation Learning for Blind Super-Resolution},
-  booktitle = {CVPR},
-  year      = {2021},
-}
-```
 
 ## Acknowledgements
 This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch), [IKC](https://github.com/yuanjunchai/IKC) and [MoCo](https://github.com/facebookresearch/moco). We thank the authors for sharing the codes.
