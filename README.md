@@ -2,16 +2,19 @@
 Pytorch implementation of " Learning Distinguishable Degradation Maps for Blind Image Super-Resolution"
 
 ## Requirements
-- Python 3.6
-- PyTorch == 1.1.0
+- Python 3.9
+- PyTorch == 1.13.1
 - numpy
 - skimage
 - imageio
 - matplotlib
 - cv2
+- einops
+- basicsr
 
 
 ## Train
+replace the file envs/your_envs/lib/python3.9/site-packages/torch/utils/data/dataloader.py with the file dataloader.py
 ### 1. Prepare training data 
 
 1.1 Download the [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)  dataset and the [Flickr2K](http://cv.snu.ac.kr/research/EDSR/Flickr2K.tar) dataset.
