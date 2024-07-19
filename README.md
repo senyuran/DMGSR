@@ -36,5 +36,5 @@ Run `./quick_test.sh` to test on an LR image. Please update `img_dir` in the bas
 
 
 ## Acknowledgements
-This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch), [IKC](https://github.com/yuanjunchai/IKC) and [MoCo](https://github.com/facebookresearch/moco). We thank the authors for sharing the codes.
+This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch), [IKC](https://github.com/yuanjunchai/IKC), [DASR](https://github.com/csjliang/DASR) and [MoCo](https://github.com/facebookresearch/moco). We thank the authors for sharing the codes.
 
