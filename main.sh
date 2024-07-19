@@ -1,6 +1,6 @@
 # noise-free degradations with isotropic Gaussian blurs
-#python main.py --dir_data='D:/LongguangWang/Data' \
-#               --model='blindsr' \
+#python main.py --dir_data='./Train/' \
+#               --model='DMGSR' \
 #               --scale='2' \
 #               --blur_type='iso_gaussian' \
 #               --noise=0.0 \
