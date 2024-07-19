@@ -34,30 +34,6 @@ Run `./test.sh` to test on benchmark datasets. Please update `dir_data` in the b
 ## Quick Test on An LR Image
 Run `./quick_test.sh` to test on an LR image. Please update `img_dir` in the bash file as `your_img_path`.
 
-## Visualization of Degradation Representations
-<p align="center"> <img src="Figs/fig.6.png" width="50%"> </p>
-
-## Comparative Results
-### Noise-Free Degradations with Isotropic Gaussian Kernels
-
-<p align="center"> <img src="Figs/tab2.png" width="100%"> </p>
-
-<p align="center"> <img src="Figs/fig.5.png" width="100%"> </p>
-
-
-### General Degradations with Anisotropic Gaussian Kernels and Noises
-<p align="center"> <img src="Figs/tab3.png" width="100%"> </p>
-
-<p align="center"> <img src="Figs/fig.7.png" width="100%"> </p>
-
-### Unseen Degradations 
-
-<p align="center"> <img src="Figs/fig.III.png" width="50%"> </p>
-
-### Real Degradations (AIM real-world SR challenge)
-
-<p align="center"> <img src="Figs/fig.VII.png" width="50%"> </p>
-
 
 ## Acknowledgements
 This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch), [IKC](https://github.com/yuanjunchai/IKC) and [MoCo](https://github.com/facebookresearch/moco). We thank the authors for sharing the codes.
