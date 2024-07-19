@@ -2,7 +2,7 @@
 #python test.py --test_only \
 #               --dir_data='./Train/'\
 #               --data_test='Random' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='4' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -24,7 +24,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='Set5' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -37,7 +37,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='Set5' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -49,7 +49,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/'\
 #               --data_test='Set14' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -61,7 +61,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='Set14' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -74,7 +74,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='Set14' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -86,7 +86,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/'\
 #               --data_test='B100' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -98,7 +98,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='B100' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -111,7 +111,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='B100' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -123,7 +123,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/'\
 #               --data_test='Urban100' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -135,7 +135,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='Urban100' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -148,7 +148,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='Urban100' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -160,7 +160,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/'\
 #               --data_test='M109' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -172,7 +172,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='M109' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -185,7 +185,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='./Train/' \
 #               --data_test='M109' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='3' \
 #               --resume=600 \
 #               --blur_type='iso_gaussian' \
@@ -198,7 +198,7 @@ python test.py --test_only \
 #python test.py --test_only \
 #               --dir_data='D:/LongguangWang/Data' \
 #               --data_test='M109' \
-#               --model='blindsr' \
+#               --model='DASR' \
 #               --scale='2' \
 #               --resume=600 \
 #               --blur_type='aniso_gaussian' \
